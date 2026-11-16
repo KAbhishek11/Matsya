@@ -1,0 +1,50 @@
+:root {
+  /* ink + paper */
+  --ink: #1b1d1c;
+  --ink-soft: #3b3f3c;
+  --paper: #fffdf8;
+  --cream: #f3eadc;
+  --cream-bevel: #c8b496;
+  --cream-line: #d9c6a8;
+
+  /* teal world (ref: punchev menu) */
+  --teal-950: #071e1c;
+  --teal-900: #0b2f2c;
+  --teal-700: #0f5a52;
+  --teal-500: #178a7a;
+  --teal-300: #4cc0a9;
+
+  /* actions */
+  --mint: #5fd59b;
+  --mint-bevel: #2f9e68;
+  --coral: #ff7f6e;
+  --coral-bevel: #c84c3e;
+  --sun: #ffd166;
+  --sun-bevel: #d39b22;
+  --pin: #9b5de5;
+
+  /* forest (ref: piece by piece / jungle scene) */
+  --leaf-900: #1f4f2a;
+  --leaf-700: #2f7d3b;
+  --leaf-500: #4fa046;
+  --leaf-300: #9cd35a;
+  --sky-glow: #e8f7a6;
+
+  /* water */
+  --water-top: #7fd6cf;
+  --water-mid: #2a9d94;
+  --water-deep: #12514f;
+  --sand: #e7d3a6;
+
+  --font-display: 'Lilita One', 'Baloo 2', system-ui, sans-serif;
+  --font-body: 'Baloo 2', system-ui, sans-serif;
+
+  --stroke: 3px;
+  --radius: 18px;
+  --radius-sm: 12px;
+  --gutter: 16px;
+  --col: 460px;
+
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+}

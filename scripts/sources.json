@@ -1,0 +1,280 @@
+{
+ "murrel": {
+  "src": "inat",
+  "title": "iNat Channa striata #98633071",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/98633071/original.jpg",
+  "page": "https://www.inaturalist.org/photos/98633071",
+  "license": "cc-by-sa",
+  "author": "(c) BEDO (Thailand), some rights reserved (CC BY-SA)"
+ },
+ "goldenMahseer": {
+  "src": "commons",
+  "title": "File:Tor Putitora.jpeg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tor_Putitora.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Tor_Putitora.jpeg",
+  "license": "CC BY-SA 4.0",
+  "author": "Ongordy"
+ },
+ "magur": {
+  "src": "commons",
+  "title": "File:Catfish - Kolkata 2016-08-02 5728.JPG",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Catfish_-_Kolkata_2016-08-02_5728.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Catfish_-_Kolkata_2016-08-02_5728.JPG",
+  "license": "CC BY 3.0",
+  "author": "Biswarup Ganguly"
+ },
+ "mullet": {
+  "src": "inat",
+  "title": "iNat Mugil cephalus #172170815",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/172170815/original.jpeg",
+  "page": "https://www.inaturalist.org/photos/172170815",
+  "license": "cc-by-nc",
+  "author": "(c) Roberto Pillon, some rights reserved (CC BY-NC), uploaded by Roberto Pillon"
+ },
+ "ghol": {
+  "src": "inat",
+  "title": "iNat Protonibea diacanthus #315955428",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/315955428/original.jpeg",
+  "page": "https://www.inaturalist.org/photos/315955428",
+  "license": "cc-by-nc",
+  "author": "(c) knotsnake, some rights reserved (CC BY-NC)"
+ },
+ "calbasu": {
+  "src": "commons",
+  "title": "File:Labeo calbasu.jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/Labeo_calbasu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Labeo_calbasu.jpg",
+  "license": "CC BY 3.0",
+  "author": "A. S. Mehri,  Mohammad Moazzam Khan"
+ },
+ "carnaticCarp": {
+  "src": "inat",
+  "title": "iNat Hypselobarbus carnaticus #611961953",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/611961953/original.jpg",
+  "page": "https://www.inaturalist.org/photos/611961953",
+  "license": "cc-by-nc",
+  "author": "(c) Vineeth M, some rights reserved (CC BY-NC), uploaded by Vineeth M",
+  "crop": [
+   0.27,
+   0.12,
+   0.6,
+   0.42
+  ]
+ },
+ "karimeen": {
+  "src": "commons",
+  "title": "File:Etroplus suratensis.jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Etroplus_suratensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Etroplus_suratensis.jpg",
+  "license": "CC BY 2.0",
+  "author": "Peter Corbett"
+ },
+ "narmadaMahseer": {
+  "src": "inat",
+  "title": "iNat Tor tor obs 131248220",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/223322644/original.jpeg",
+  "page": "https://www.inaturalist.org/observations/131248220",
+  "license": "cc-by-nc",
+  "author": "(c) kavinrenuwii, some rights reserved (CC BY-NC)",
+  "crop": [
+   0,
+   0,
+   0.68,
+   1
+  ],
+  "rotate": 90
+ },
+ "pomfret": {
+  "src": "inat",
+  "title": "iNat Pampus argenteus #20560081",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/20560081/original.jpg",
+  "page": "https://www.inaturalist.org/photos/20560081",
+  "license": "cc-by",
+  "author": "(c) Hamid Badar Osmany, some rights reserved (CC BY)"
+ },
+ "pengba": {
+  "src": "inat",
+  "title": "iNat Osteobrama belangeri obs 230048896",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/408431664/original.jpeg",
+  "page": "https://www.inaturalist.org/observations/230048896",
+  "license": "cc-by-nc",
+  "author": "(c) ddpt, some rights reserved (CC BY-NC)",
+  "crop": [
+   0,
+   0.05,
+   1,
+   0.75
+  ]
+ },
+ "ngahvang": {
+  "src": "inat",
+  "title": "iNat Semiplotus modestus #469004494",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/469004494/original.jpg",
+  "page": "https://www.inaturalist.org/photos/469004494",
+  "license": "cc-by-nc",
+  "author": "(c) lordworm_cryptopsy, some rights reserved (CC BY-NC)"
+ },
+ "mahanadiMahseer": {
+  "src": "commons",
+  "title": "File:Tor khudree (Sykes).jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tor_khudree_%28Sykes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Tor_khudree_(Sykes).jpg",
+  "license": "Public domain",
+  "author": "Nilesh Heda",
+  "note": "Photo shows the closely related Deccan mahseer (Tor khudree); no free photo of Tor mahanadicus exists."
+ },
+ "chocolateMahseer": {
+  "src": "commons",
+  "title": "File:Neolissochilus hexagonolepis.jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/Neolissochilus_hexagonolepis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Neolissochilus_hexagonolepis.jpg",
+  "license": "CC BY 3.0",
+  "author": "Ben Laloo",
+  "crop": [
+   0,
+   0,
+   1,
+   0.86
+  ]
+ },
+ "rohu": {
+  "src": "commons",
+  "title": "File:Labeo rohita.JPG",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Labeo_rohita.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Labeo_rohita.JPG",
+  "license": "CC BY-SA 4.0",
+  "author": "Khalid Mahmood"
+ },
+ "pabda": {
+  "src": "commons",
+  "title": "File:Ompok bimaculatus.JPG",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ompok_bimaculatus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Ompok_bimaculatus.JPG",
+  "license": "Public domain",
+  "author": "Nilesh Heda"
+ },
+ "chital": {
+  "src": "commons",
+  "title": "File:Chitala chitala.jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Chitala_chitala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Chitala_chitala.jpg",
+  "license": "CC BY 3.0",
+  "author": "Hamid Badar Osmany"
+ },
+ "hilsa": {
+  "src": "inat",
+  "title": "iNat Tenualosa ilisha #334081051",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/334081051/original.jpg",
+  "page": "https://www.inaturalist.org/photos/334081051",
+  "license": "cc-by-nc",
+  "author": "(c) myomyintthu, some rights reserved (CC BY-NC)"
+ },
+ "catla": {
+  "src": "commons",
+  "title": "File:Catla catla.JPG",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Catla_catla.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Catla_catla.JPG",
+  "license": "CC BY-SA 4.0",
+  "author": "Khalid Mahmood"
+ },
+ "mrigal": {
+  "src": "inat",
+  "title": "iNat Cirrhinus mrigala #92399907",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/92399907/original.jpg",
+  "page": "https://www.inaturalist.org/photos/92399907",
+  "license": "cc-by-nc",
+  "author": "(c) Tse Chung Yi, some rights reserved (CC BY-NC), uploaded by Tse Chung Yi"
+ },
+ "bombil": {
+  "src": "commons",
+  "title": "File:Harpadon nehereus (by Hamid Badar Osmany).jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Harpadon_nehereus_%28by_Hamid_Badar_Osmany%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Harpadon_nehereus_(by_Hamid_Badar_Osmany).jpg",
+  "license": "CC BY 3.0",
+  "author": "Hamid Badar Osmany (hamid61612002@yahoo.com )",
+  "despill": true
+ },
+ "surmai": {
+  "src": "commons",
+  "title": "File:Scomberomorus commerson Pakistan.jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Scomberomorus_commerson_Pakistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Scomberomorus_commerson_Pakistan.jpg",
+  "license": "CC BY 3.0",
+  "author": "Hamid Badar Osmany",
+  "alphaFloor": 110
+ },
+ "bangda": {
+  "src": "commons",
+  "title": "File:Rastrelliger kanagurta JNC2855.JPG",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rastrelliger_kanagurta_JNC2855.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Rastrelliger_kanagurta_JNC2855.JPG",
+  "license": "CC BY-SA 4.0",
+  "author": "Jean-Lou Justine"
+ },
+ "bhetki": {
+  "src": "commons",
+  "title": "File:Lates calcarifer (Barramundi).jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lates_calcarifer_%28Barramundi%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Lates_calcarifer_(Barramundi).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Salil Kumar Mukherjee"
+ },
+ "koi": {
+  "src": "commons",
+  "title": "File:A testudineus.jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/A_testudineus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:A_testudineus.jpg",
+  "license": "CC BY 3.0",
+  "author": "Dr. M. Shahadat Hossain"
+ },
+ "singhi": {
+  "src": "commons",
+  "title": "File:Heteropneustes fossilis Pakistan.png",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Heteropneustes_fossilis_Pakistan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Heteropneustes_fossilis_Pakistan.png",
+  "license": "CC BY 3.0",
+  "author": "Hamid Badar Osmany"
+ },
+ "rani": {
+  "src": "commons",
+  "title": "File:Nemipterus japonicus India.JPG",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nemipterus_japonicus_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Nemipterus_japonicus_India.JPG",
+  "license": "CC BY 3.0",
+  "author": "Shankaragouda"
+ },
+ "tengra": {
+  "src": "inat",
+  "title": "iNat Mystus vittatus #489147299",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/489147299/original.jpeg",
+  "page": "https://www.inaturalist.org/photos/489147299",
+  "license": "cc-by-nc",
+  "author": "(c) Jyotiraditya Priyadarshi，保留部分权利（CC BY-NC）, 由 Jyotiraditya Priyadarshi 上传"
+ },
+ "mathi": {
+  "src": "commons",
+  "title": "File:Sardinella longiceps.jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sardinella_longiceps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Sardinella_longiceps.jpg",
+  "license": "CC0",
+  "author": "Hariprasad Shetty10"
+ },
+ "rawas": {
+  "src": "commons",
+  "title": "File:Eleutheronema tetradactylum(Shaw, 1804).jpg",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Eleutheronema_tetradactylum%28Shaw%2C_1804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Eleutheronema_tetradactylum(Shaw,_1804).jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "BEDO (Thailand)"
+ },
+ "baam": {
+  "src": "inat",
+  "title": "iNat Mastacembelus armatus obs 9418846",
+  "full": "https://inaturalist-open-data.s3.amazonaws.com/photos/12797960/original.jpg",
+  "page": "https://www.inaturalist.org/observations/9418846",
+  "license": "cc-by-nc",
+  "author": "(c) 刘光裕 Liu Guangyu, some rights reserved (CC BY-NC)",
+  "alphaFloor": 60,
+  "despill": true
+ }
+}
